@@ -1,16 +1,30 @@
-# flutter_new_project_1
+# 📦 Flutter Catalog App
 
-A new Flutter project.
+A simple and clean **catalog application** built using **Flutter**.  
+This app displays products with images, prices, and details using a modern UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🛍️ Product listing
+- 📄 Product details page
+- 🎨 Clean & modern UI
+- 📱 Responsive for Android & iOS
+- ⚡ Fast performance
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+
+
+
+
+
+
